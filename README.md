@@ -1,4 +1,6 @@
 # Nugroho Damar — Data Scientist · ML Engineer 👋
+<img src="https://img.freepik.com/premium-vector/business-man-working-stock-financial-trade-market-diagram-vector_1090394-81905.jpg?w=2000" width="1000" alt="Analyzing Data GIF" align="middle">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nugrohodamar/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nugrohodamar)
@@ -6,6 +8,8 @@
 ---
 
 ## 🌱 About Me
+
+<!-- Header image / Banner GIF -->
 
 Computer Science (Cybersecurity) graduate from Bina Nusantara University.  
 Focused on ML, Data Engineering, Cloud (AWS), ETL pipelines & visualization.
