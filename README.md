@@ -25,6 +25,7 @@ Focused on ML, Data Engineering, Cloud (AWS), ETL pipelines & visualization.
 
 ## 🚀 Projects & Highlights
 
+- **Telecom Churn Rate Prediction And Analysis** — Real-time apps To Predict Churn rate from TELECOM Company Datasets. 
 - **E-Quinox: Contextual Bandit** — Real-time recommendation system optimizing marketing decisions.  
 - **ETL + Elasticsearch Analytics** — From PostgreSQL → preprocessing → Elasticsearch; dashboards with Kibana; deployment with Docker & Jenkins.  
 - **Obesity Prediction Web App** — ML model training & evaluation + deployment via Streamlit; focus on interpretability & insights.
