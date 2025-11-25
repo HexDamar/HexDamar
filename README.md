@@ -1,4 +1,4 @@
-# Nugroho Damar — Data Scientist · ML Engineer 👋
+# Nugroho Damar — Data Scientist · ML Engineer 
 <img src="https://img.freepik.com/premium-vector/business-man-working-stock-financial-trade-market-diagram-vector_1090394-81905.jpg?w=2000" width="1000" alt="Analyzing Data GIF" align="middle">
 
 
